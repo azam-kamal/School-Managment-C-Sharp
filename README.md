@@ -1,1 +1,1 @@
-# School-Managment-C-
+# School-Managment-System
